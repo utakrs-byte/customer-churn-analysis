@@ -1,0 +1,4 @@
+internet_service,customers,churned,churn_rate_pct
+DSL,331,66,19.94
+Fiber optic,484,146,30.17
+No internet,185,33,17.84

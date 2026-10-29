@@ -1,0 +1,21 @@
+CUSTOMER CHURN ANALYSIS — OUTPUT SUMMARY
+IMPORTANT: This package uses SYNTHETIC DEMONSTRATION DATA generated for layout/testing.
+It is not calculated from the user's actual GitHub dataset.
+
+Overall KPIs
+- Total customers: 1000
+- Churned customers: 245
+- Retained customers: 755
+- Churn rate: 24.50%
+- Retention rate: 75.50%
+- Average monthly charge: 70.62
+- Estimated monthly revenue at risk among churned demo customers: 18593.35
+
+Highest churn contract segment in this demo:
+Month-to-month (30.09% churn rate)
+
+Interpretation guidance
+1. Compare churn across contract types, service types, support calls and tenure groups.
+2. Prioritize retention outreach only after validating patterns on the real dataset.
+3. Revenue-at-risk is a simple sum of monthly charges for churned demo records; it is not a forecast.
+4. Replace the demo CSV and rerun analysis before presenting results as actual findings.
